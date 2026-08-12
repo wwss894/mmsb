@@ -53,8 +53,8 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/wwss894/mmsb.git
+cd mmsb
 ```
 
 ### 2. 安装依赖
